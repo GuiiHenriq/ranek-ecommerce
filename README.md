@@ -1,4 +1,5 @@
-# ranek
+# Ranek e-commerce
+**Projeto desenvolvido através do curso Origamid para fins de estudos do VueJS**
 
 ## Project setup
 ```
