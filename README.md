@@ -21,5 +21,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Online
+[https://ranek-ecommerce.netlify.app/](https://ranek-ecommerce.netlify.app/)
